@@ -12,7 +12,7 @@ This repository contains the code for training an **Object Detection** model usi
 
 ## 🛠 Tech Stack
 - **Python** 🐍
-- **PyTorch / TensorFlow** 🔥
+- **PyTorch ** 🔥
 - **OpenCV** 📷
 - **Matplotlib & Seaborn** 📊
 - **LabelImg** 🏷️ (for annotation)
