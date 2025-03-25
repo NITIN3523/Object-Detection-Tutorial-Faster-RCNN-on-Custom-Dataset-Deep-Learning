@@ -2,7 +2,7 @@
 # 🚀 Object Detection with Transfer Learning (Faster R-CNN)
 
 ## 📌 Overview
-This repository contains the code for training an **Object Detection** model using **Transfer Learning** with **Faster R-CNN** on a **custom dataset**. The tutorial covers everything from data preparation to model evaluation and real-world applications.
+This repository contains the code for training an **Object Detection** model using **Transfer Learning** with **Faster R-CNN** on a **custom dataset**. The tutorial covers everything from data preparation to model evaluation and model trainiing.
 
 ## 📋 What's Inside?
 - ✅ Object Detection Fundamentals
@@ -15,7 +15,7 @@ This repository contains the code for training an **Object Detection** model usi
 - **Python** 🐍
 - **PyTorch ** 🔥
 - **OpenCV** 📷
-- **Matplotlib & Seaborn** 📊
+- **Matplotlib** 📊
 - **LabelImg** 🏷️ (for annotation)
 
 ## 📊 Results & Evaluation
