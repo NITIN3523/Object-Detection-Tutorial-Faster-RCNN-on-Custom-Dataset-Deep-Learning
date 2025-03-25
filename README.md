@@ -13,13 +13,13 @@ This repository contains the code for training an **Object Detection** model usi
 ## 🛠 Tech Stack
 - **Python** 🐍
 - **PyTorch** 🔥
-- **Matplotlib & Seaborn** 📊
+- **Matplotlib** 📊
 - **LabelImg** 🏷️ (for annotation)
 
 ### Download Dataset
 Download the pothole dataset from the link below and extract it into the project directory.
 
-🔗 **Dataset Link:** [Download Here](https://drive.google.com/file/d/14n4N5sfDjZUgnaL_OBgRxeberHNO-Ua2/view?usp=sharing)
+🔗 **Dataset Link:** [Download Here](https://drive.google.com/file/d/1Gqe40iOinVJ8TTKpOGQQIvSxLtgLGDNX/view?usp=sharing)
 
 ## 📊 Results & Evaluation
 - The model achieves **high accuracy** on the pothole detection dataset.
